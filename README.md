@@ -26,6 +26,9 @@ This project is a Sales Dashboard built with Streamlit, providing an interactive
 
 5. Access the app in your browser at `http://localhost:8501`.
 
+## Demo
+💻Sales Dashboard: https://sales-dashboard-dbf.streamlit.app/
+
 ## 🌐 Profiles
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/dion-ben-fernandes)
 - [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/DionBenFernandes-Dev)
