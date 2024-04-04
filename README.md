@@ -1,35 +1,6 @@
-
-# Interactive Dashboard with Python – Streamlit
-
-Sales Dashboard built-in Python and the Streamlit library to visualize Excel data.
-
-## Run the app
-```Powershell
-# vanilla terminal
-streamlit run app.py
-
-# quit
-ctrl-c
-```
-
-## Demo
-Sales Dashboard: https://www.salesdashboard.pythonandvba.com/
-
-## Screenshot
-![Dashboard Screenshot](./Dashboard_Sample.png)
-
-## 🌐 Profiles
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/dion-ben-fernandes)
-- [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/DionBenFernandes-Dev)
-- [![Fiverr](https://img.shields.io/badge/Fiverr-%23B0DB43.svg?logo=fiverr&logoColor=white)](https://www.fiverr.com/dionbfdev)
-- [![Upwork](https://img.shields.io/badge/Upwork-%2323077B5.svg?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e9ef451892c34307?mp_source=share)
-
-
-
-```markdown
 # Sales Dashboard with Streamlit
 
-![Sales Dashboard](insert_screenshot_image_url_here)
+![Sales Dashboard](https://github.com/DionBenFernandes-Dev/Sales-Dashboard-with-Streamlit/blob/main/Dashboard_Sample.png)
 
 ## Introduction
 This project is a Sales Dashboard built with Streamlit, providing an interactive way to visualize sales data. It offers filtering options by city, customer type, and gender, along with key performance indicators (KPIs) such as total sales, average rating, and average sales per transaction.
@@ -55,25 +26,11 @@ This project is a Sales Dashboard built with Streamlit, providing an interactive
 
 5. Access the app in your browser at `http://localhost:8501`.
 
-## Demo
-[Watch the demo on YouTube](insert_demo_video_url_here)
-
-## Contact Information
-- **Email:** dionbf.dev@gmail.com
-- **LinkedIn:** [Dion Ben Fernandes](https://in.linkedin.com/in/dion-ben-fernandes)
-- **GitHub:** [DionBenFernandes-Dev](https://github.com/DionBenFernandes-Dev)
-- **Fiverr:** [dionbfdev](https://www.fiverr.com/dionbfdev)
-- **Upwork:** [Dion Ben Fernandes](https://www.upwork.com/freelancers/~01e9ef451892c34307?mp_source=share)
-
-```
-## 🌐 Sources
-1. [GitHub - DionBenFernandes-Dev](https://github.com/DionBenFernandes-Dev)
-2. [LinkedIn - Dion Ben Fernandes](https://in.linkedin.com/in/dion-ben-fernandes)
-3. [Fiverr - dionbfdev](https://www.fiverr.com/dionbfdev)
-4. [Upwork - Dion Ben Fernandes](https://www.upwork.com/freelancers/~01e9ef451892c34307?mp_source=share)
-```
-
-
+## 🌐 Profiles
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/dion-ben-fernandes)
+- [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/DionBenFernandes-Dev)
+- [![Fiverr](https://img.shields.io/badge/Fiverr-%23B0DB43.svg?logo=fiverr&logoColor=white)](https://www.fiverr.com/dionbfdev)
+- [![Upwork](https://img.shields.io/badge/Upwork-%2323077B5.svg?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e9ef451892c34307?mp_source=share)
 
 <!---
 ## ☕️ Support My Work
